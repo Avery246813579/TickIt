@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/Avery246813579/TickIt#readme",
   "dependencies": {
+    "core-js": "^3.21.0",
+    "crypto": "^1.0.1",
     "dotenv": "^16.0.0",
     "express": "4.17.2",
+    "jssql": "^1.5.5",
     "prettier": "^2.5.1"
   },
   "devDependencies": {
